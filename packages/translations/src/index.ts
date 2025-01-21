@@ -121,7 +121,7 @@ const datePickerTranslations = {
   srLatnRS: datePickerSrLatnRS,
   srRS: datePickerSrRS,
   ltLT: datePickerLtLT,
-  hrHr: datePickerHrHR,
+  hrHR: datePickerHrHR,
 }
 
 export {

@@ -3,7 +3,7 @@ import { CalendarTranslations } from '@schedule-x/shared/src/types/translations/
 export const calendarHrHR: CalendarTranslations = {
   Today: 'Danas',
   Month: 'Mjesec',
-  Week: 'Nedjelja',
+  Week: 'Tjedan',
   Day: 'Dan',
   'Select View': 'Odaberite pregled',
   events: 'Događaji',
